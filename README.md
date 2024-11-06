@@ -4,7 +4,7 @@
 
 ## 🎓 About Me
 
-I'm a software engineering student at **Epitech** specializing in **web development** and I'm currently exploring **data science** and **machine learning**. I'm seeking an **internship starting in January 2025** to apply my skills in challenging projects and expand my technical expertise.
+I'm a software engineering student at **Epitech** specializing in **web development**. I am currently exploring **data science** and **machine learning**, aiming to merge my technical skills with analytical insights. I'm seeking an **internship starting in January 2025** to apply my skills in challenging projects and expand my technical expertise.
 
 💬 **Let’s connect!** I’d love to discuss **Web Development**, **DevOps**, and my journey in **Data Science**  
 📧 **Email**: [estelle.giroud@epitech.eu](mailto:estelle.giroud@epitech.eu)
@@ -28,23 +28,30 @@ I'm a software engineering student at **Epitech** specializing in **web developm
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+- **CSS Frameworks**:  
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   
 - **Frameworks & Databases**:  
   ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  
+
 ### Future Skills (MERN Stack - Planned Learning)
+- **Technologies I aim to learn**:  
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Application Development
+- **Technologies**:  
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
   <!-- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) -->
 
 ### Data Science & Machine Learning (Currently learning)
+- **Learning Libraries**:  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -53,25 +60,30 @@ I'm a software engineering student at **Epitech** specializing in **web developm
   ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFAE33?style=for-the-badge&logo=huggingface&logoColor=white)
 
 ### DevOps & CI/CD
+- **Tools & Technologies**:  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Development Environments
+- **IDEs & Editors**:  
   ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Project Management & Collaboration
+- **Collaboration Tools**:  
   ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
   ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
   ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### CMS & UX Design 
+- **Design & CMS**:  
   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### Methodologies & Practices
+- **Agile & Scrum**:  
   ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
 
 ---
